@@ -1,10 +1,10 @@
 # State_Kadai ガチャ
 
-##HasCoinState
+##HasCoinState  
 ###コイン投入済み状態
 
-##NoCoinState
+##NoCoinState  
 ###コイン投入待ち状態
 
-##SoldOutState
+##SoldOutState  
 ###売り切れ状態
